@@ -1,4 +1,4 @@
-const clientId = 'e0ef6fad3b6e4afda2ee54fbd64fc21c';
+const clientId = '';
 const redirectURI = 'http://letusjam.surge.sh';
 let accessToken;
 
